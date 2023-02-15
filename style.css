@@ -1,0 +1,24 @@
+body{
+   background-image:url(https://a.vsstatic.com/cms-uploads/the-weeknd-2-rectangle.jpg);
+   backgroundimage-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;}
+h1{
+  color:white;
+}
+h2{
+  color:yellow;
+}
+table,th,td{
+/*   background-color:lavender; */
+  border: 1px solid black;
+  color:white;
+ 
+}
+img{
+  width:150px;
+}
+em{
+  color:Pink;
+}
+}
